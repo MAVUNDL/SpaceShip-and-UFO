@@ -1,4 +1,6 @@
 # SpaceShip-and-UFO
+![Screenshot (19)](https://github.com/MAVUNDL/SpaceShip-and-UFO/assets/117544413/b3165973-60de-45f7-bd9d-79a613f89fc2)
+
 
 # Description
 This is a simple game created using the Pygame library in Python. The game involves a player controlling a character to shoot down moving enemies while avoiding collisions and staying within the game boundaries.
